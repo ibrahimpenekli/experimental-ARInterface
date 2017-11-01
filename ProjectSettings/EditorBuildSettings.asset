@@ -12,12 +12,6 @@ EditorBuildSettings:
     path: Assets/UnityARInterface/ARRemote/RemoteDevice.unity
     guid: 20b446302c6bc5a4db8e59fc358aba13
   - enabled: 0
-    path: Assets/UnityARInterface/Examples/PointCloud/PointCloud.unity
-    guid: 3ab759bea1af91f41ba15ddbeee53e49
-  - enabled: 0
-    path: Assets/UnityARInterface/Examples/Planes/Planes.unity
-    guid: ef57cdc021a440e41b601b7ceddc923e
-  - enabled: 0
     path: Assets/UnityARInterface/Examples/SimpleAROptions/SimpleAROptions.unity
     guid: f7615a991533a4c50866ba45f97cc13a
   - enabled: 0
